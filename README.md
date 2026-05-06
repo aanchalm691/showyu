@@ -8,6 +8,7 @@ A video browsing interface built using modern frontend technologies. This projec
 ## 🚀 Live Demo
 
 👉 https://showyu.vercel.app/
+
 <img width="1897" height="870" alt="image" src="https://github.com/user-attachments/assets/8f09fd52-3ffb-4bb5-a013-ce12a2cd8687" />
 
 ---
